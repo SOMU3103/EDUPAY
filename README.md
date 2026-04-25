@@ -14,7 +14,7 @@
 ## 😤 The Problem We're Solving
 
 <!-- Add a problem image below -->
-![Problem](./assets/problem.png)
+<img src="img/main.jpg" alt="EduPay Logo" width="600"/>
 
 > **"Students are missing classes just to stand in a fee payment queue."**
 
